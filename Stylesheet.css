@@ -1,0 +1,23 @@
+td{
+	width: 100px;
+	height: 100px;
+}
+.all{
+	border: solid 2px black;
+}
+.topBottom{
+	border-top:solid 2px black;
+	border-bottom: solid 2px black; 
+}
+.leftright{
+	border-left: solid 2px black;
+	border-right: solid 2px black;
+
+
+}
+table{
+	margin: auto;
+}
+h1{
+	text-align: center;
+}
